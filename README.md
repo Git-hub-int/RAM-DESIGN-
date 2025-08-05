@@ -1,5 +1,17 @@
 1️⃣# RAM-DESIGN-
 
+COMPANY:- CODTECH IT SOLUTIONS 
+
+NAME:- GARIMA VERMA
+
+INTERN ID:- CT04DH2092
+
+DOMAIN:- VLSI
+
+DURATION:- 4 WEEKS 
+
+MENTOR:- NEELA SANTOSH 
+
 RAM (Random Access Memory) is a type of volatile memory used in digital systems to store and retrieve data quickly. It allows random access, meaning data can be read from or written to any memory location in constant time, regardless of its physical location.
 
  ▶️In this task implements a Random Access Memory (RAM) module in Verilog HDL with:
@@ -44,3 +56,6 @@ iverilog -o ram_test ram.v
 vvp ram_test
 
 gtkwave dump.vcd
+
+OUTPUT:-
+

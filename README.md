@@ -58,4 +58,4 @@ vvp ram_test
 gtkwave dump.vcd
 
 OUTPUT:-
-
+![Image](https://github.com/user-attachments/assets/be13ac8e-653a-4126-9ff2-4ad7a79c4d0f)
